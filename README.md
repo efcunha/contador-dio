@@ -26,3 +26,20 @@ Navegador Web
 
 ## 🚀 Let's code! 🚀
 
+# Resultado do projeto:
+
+# Meu Contador
+
+<p align="center">
+  <img src="https://github.com/efcunha/instagram-dio/blob/main/assets/instagram-efcunha.png" width="600" heigth="600">
+</p>
+
+<p align="center">
+  <img src="https://github.com/efcunha/instagram-dio/blob/main/assets/instagram-efcunha.png" width="600" heigth="600">
+</p>
+
+# Contador do Curso
+
+<p align="center">
+  <img src="https://github.com/efcunha/instagram-dio/blob/main/assets/instagram-efcunha.png" width="600" heigth="600">
+</p>
