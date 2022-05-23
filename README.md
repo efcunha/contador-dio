@@ -6,6 +6,10 @@
 
 Neste projeto, iremos fazer a nossa primeira integração de um código Javascript com uma página HTML.
 
+Projeto base GitHub: Stephany Nusch
+
+https://github.com/stebsnusch/basecamp-javascript/tree/main/introducao-ao-javascript
+
 # Editor de codigo utilizado
 [Visual Studio Code](https://code.visualstudio.com/)
 
@@ -28,18 +32,18 @@ Navegador Web
 
 # Resultado do projeto:
 
-# Meu Contador
+# Meu Contador:
 
 <p align="center">
-  <img src="https://github.com/efcunha/instagram-dio/blob/main/assets/instagram-efcunha.png" width="600" heigth="600">
+  <img src="https://github.com/efcunha/contador-dio/blob/main/img/Positivo.png" width="600" heigth="600">
 </p>
 
 <p align="center">
-  <img src="https://github.com/efcunha/instagram-dio/blob/main/assets/instagram-efcunha.png" width="600" heigth="600">
+  <img src="https://github.com/efcunha/contador-dio/blob/main/img/negativo.png" width="600" heigth="600">
 </p>
 
-# Contador do Curso
+# Contador do Curso:
 
 <p align="center">
-  <img src="https://github.com/efcunha/instagram-dio/blob/main/assets/instagram-efcunha.png" width="600" heigth="600">
+  <img src="https://github.com/efcunha/contador-dio/blob/main/img/Curso.png" width="600" heigth="600">
 </p>
