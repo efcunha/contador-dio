@@ -17,7 +17,7 @@ https://github.com/stebsnusch/basecamp-javascript/tree/main/introducao-ao-javasc
 
 - Tente implementar os eventos usando o método `addEventListener`. OK 
 - Crie condicionais que desabilitam o botão de incrementar ou decrementar quando `count` chegar a um determinado valor *(ex.: 0 <= count =< 10)*. OK
-- Mude a cor do texto em `CURRENT_NUMBER` para vermelho quando o número for negativo. OK
+- Mude a cor do texto em `CURRENT_NUMBER` para vermelho quando o número for negativo e verde quando for positivo. OK
 
 ## :seedling: Requisitos Mínimos
 
