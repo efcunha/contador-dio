@@ -3,6 +3,7 @@ let count = 0;
 // Selecione os botões para gerar o valor
 const value = document.querySelector("#value");
 const btns = document.querySelectorAll(".btn");
+const disableButton = document.querySelectorAll(".btn");
 
 btns.forEach(function (btn) {
   btn.addEventListener("click", function (e) {
@@ -16,23 +17,21 @@ btns.forEach(function (btn) {
       }
       if (count > 0) {
         value.style.color = "green";
-      }
-      if (count < 0) {
+        } else if (count <= -10) {
+            btn.disabled = true;
+          } else {
+            btn.disabled = false;
+          }
+            if (count < 0) {
         value.style.color = "red";
-      }
+        } else if (count >= 10) {
+            btn.disabled = true;
+          } else {
+            btn.disabled = false;
+          }
       if (count === 0) {
         value.style.color = "#222";
       }
     value.textContent = count;
-
-    const disableButton = document.querySelectorAll(".btn"); {
-      disableButton.forEach(function (btn) {
-        if (count <= -10 || count >= 10) {
-          btn.disabled = true;
-        } else {
-          btn.disabled = false;
-        }
-      });
-    }
   });
 });
